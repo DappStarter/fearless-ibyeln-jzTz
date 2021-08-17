@@ -1,0 +1,15 @@
+{
+    "name": "papajones",
+    "blocks": {
+        "/blockchain/avalanche": true,
+        "/blockchain/avalanche/solidity": true,
+        "/framework/vanilla": true,
+        "/category/asset_value_tracking/core-token": true,
+        "/category/asset_value_tracking/core-token/name": "papajones",
+        "/category/asset_value_tracking/core-token/symbol": "PAP",
+        "/category/asset_value_tracking/core-token/decimals": "18",
+        "/category/asset_value_tracking/core-token/supply": "42000000",
+        "/category/access_control/core-administrator_role": true,
+        "/category/access_control/core-contract_access": true
+    }
+}
